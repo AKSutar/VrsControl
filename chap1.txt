@@ -1,1 +1,2 @@
 This is all about the chapter 1 of "Full Stack Developer".
+Here we will learn about HTML/CSS/JavaScript.
